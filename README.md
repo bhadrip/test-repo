@@ -1,3 +1,3 @@
 # test-repo
 testing for automation
-push1
+push2
